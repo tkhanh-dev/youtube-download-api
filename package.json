@@ -20,7 +20,8 @@
     "dependencies": {
         "cors": "^2.8.5",
         "express": "^4.17.1",
-        "ytdl-core": "^4.5.0"
+        "ytdl-core": "^4.5.0",
+        "tk-ytdl": "git+https://github.com/tkhanh-dev/ytdl-core.git"
     },
     "devDependencies": {}
 }
