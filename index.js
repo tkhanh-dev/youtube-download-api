@@ -1,5 +1,5 @@
 const express = require("express");
-const ytdl = require("ytdl-core");
+const ytdl = require("tk-ytdl");
 const cors = require("cors");
 
 const app = express();
